@@ -1,5 +1,3 @@
-import pytest
-
 def test_logic():
-    # We intentionally make this fail as requested by the TP
-    assert 1 + 1 == 5
+    # Fix the test so it passes
+    assert 1 + 1 == 2
